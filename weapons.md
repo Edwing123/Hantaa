@@ -5,6 +5,3 @@ Hantaa has two weapons
   > A magical shields which has great resistence
 - `Blaze sun`
   > A powerful sword empowered by the sun
-  
- 
-Some change
